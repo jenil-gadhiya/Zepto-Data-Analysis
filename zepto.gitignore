@@ -1,0 +1,26 @@
+# Ignore SPSS backup and temporary files
+*.bak
+*.tmp
+*.sbs
+*.sav.bak
+*.spv.bak
+
+# Ignore Edraw auto-save and backup files
+*.eddx.autosave
+*.eddx.bak
+
+# Ignore system files (macOS & Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore Microsoft Office temporary files
+~$*.docx
+~$*.pptx
+
+# Ignore log files
+*.log
+
+# Ignore unnecessary hidden files
+*.swp
+*.swo
+*.~lock.*
